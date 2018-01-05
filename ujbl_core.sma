@@ -6,7 +6,7 @@
 #include <reapi>
 
 #pragma semicolon 1 
-
+//Тест
 // Слова в нике (если они будут найдены) которые запрещает вход за Охранников.
 #define BLOCK_DEFAULT_NICK		"player", "GS-M", "unnamed", "unamed", "CS-", "CS_", "-MS", "Strikes", "boost", "-CS", ".ru", ".com", ".net"
 
