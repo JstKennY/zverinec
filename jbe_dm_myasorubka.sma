@@ -9,7 +9,7 @@
 #define jbe_is_user_valid(%0) 			(%0 && %0 <= MaxClients)
 #define MsgId_ScreenFade 98
 #define TASK_AMBIENCE_SOUND 124567
-
+//Проверка.
 new g_iDayModeMyasorubka, bool:g_bDayModeStatus, g_TimeGoShturm, g_iHudShow, HamHook:g_iHamHookForwards[13];
 new const g_szHamHookEntityBlock[][] = {
 	"func_vehicle", // Управляемая машина
